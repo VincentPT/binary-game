@@ -1,5 +1,15 @@
 # binary-game
-a binary game demonstration
+a binary game demonstration.
+game rule: Players pickup a element from a binary sequence array at his/her turn.
+           the element must be surrounded by zero and not the first and last number.
+           
+input fortmat:
+```
+<number of game>
+<number of element in sequence>
+<sequence, each element seperated by a space>
+...
+```
 
 # Compile
 1. Make a build folder
