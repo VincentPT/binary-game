@@ -2,6 +2,7 @@
 #define BINARY_GAME_PLAYER
 
 #include "algorithms.h"
+#include <memory>
 #include <string>
 
 namespace binary_game {
